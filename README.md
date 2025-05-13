@@ -9,22 +9,22 @@ The DOC folder contains our final report (team004report.pdf) and our final poste
 The CODE folder contains the code for running our models. The team004_runner.ipynb file contains the code you need to run to load the models. This folder also contains the saved models as .sav files. 
 
 Our models for tree health classification are:
-	* tree_health_ensemble.sav
-	* tree_health_random_forest_classifier.sav
-	* tree_health_xgboost.sav
+- tree_health_ensemble.sav
+- tree_health_random_forest_classifier.sav
+- tree_health_xgboost.sav
 
 
 Our models for air quality vs public health risk prediction are:
-	* air_quality_and_health_dnn.sav
-	* air_quality_and_health_gradient_boosting.sav
-	* air_quality_and_health_random_forest_regressor.sav
+- air_quality_and_health_dnn.sav
+- air_quality_and_health_gradient_boosting.sav
+- air_quality_and_health_random_forest_regressor.sav
 
 The VISUALIZATIONS folder contains all of our Tableau visualizations:
-	* city_health_metrics.png
-	* city_health.png
-	* CMU_trees.png
-	* LA_trees.png
-	* Pittsburgh_trees.png
+- city_health_metrics.png
+- city_health.png
+- CMU_trees.png
+- LA_trees.png
+- Pittsburgh_trees.png
 
 Additionally, the VISUALIZATIONS folder contains the script we wrote to process our datasets before visualizing them (file_processing.ipynb) and the code that produces our visualizations (Tableau Visualizations.twb).
 
